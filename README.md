@@ -1,5 +1,5 @@
 # Walkability
-Final Project: Ranking the most walkable Pittsburgh neighborhoods using data related to motor vehicles and pedestrians (CMPINF 0010).
+Analyzing Pittsburgh's walkability by evaluating neighborhoods through vehicle and pedestrian data (CMPINF 0010, Final Project).
 
 Canvas Group:       35
 
